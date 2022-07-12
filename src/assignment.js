@@ -32,15 +32,7 @@ function sumOfNumbers(arrayOfNumbers) {
  * @returns number the count of even numbers
  */
 function countEvenNumbers(arrayOfNumbers) {
-  // let count = 0;
-  // const isEven = num => num % 2 === 0;;
-  // for(let index in arrayOfNumbers){
-  //   if (isEven(arrayOfNumbers[index])){
-  //     count = count + 1;
-  //   }
-  // }
-  
-  return arrayOfNumbers.length;
+    return arrayOfNumbers.length;
 }
 // assignment.countEvenNumbers = countEvenNumbers;
 
