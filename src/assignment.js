@@ -22,6 +22,9 @@ function sumOfNumbers(arrayOfNumbers) {
     return total_sum;
 }
 
+assignment.sumOfNumbers = sumOfNumbers;
+
+
 /**
  * Challenge - 2
  * 
@@ -58,6 +61,8 @@ function celsiusToFahrenheit(arrayOfNumbers) {
     }
     return workArray;
 }
+
+assignment.celsiusToFahrenheit = celsiusToFahrenheit;
 
 
 
